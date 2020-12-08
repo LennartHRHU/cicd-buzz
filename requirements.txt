@@ -16,7 +16,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 pathlib2==2.3.5
-perf==0.1
 pycurl==7.19.0
 pygobject==3.22.0
 pygpgme==0.3
